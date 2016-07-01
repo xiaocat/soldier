@@ -38,3 +38,6 @@ jspm_packages
 
 # sass临时文件
 .sass-cache
+
+# 配置文件
+config.js
